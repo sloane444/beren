@@ -48,6 +48,8 @@ h1{
 	padding: 10px 20px;
 	color: aliceblue;
 	font-family: monospace;
+	margin-left: -100;
+	margin-right: -100;
 }
 
 h2{
